@@ -23,18 +23,6 @@ PixelPop is a powerful, user-friendly wallpaper generator that transforms your c
    cd PixelPop
    ```
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start the application**
-   ```bash
-   npm start
-   ```
-
-4. **Open your browser** and navigate to `http://localhost:3000`
-
 ## 🎮 How to Use
 
 1. **Select a Style** - Choose from our curated collection of wallpaper styles
