@@ -44,15 +44,6 @@ git clone https://github.com/sanjay434343/PixelPop.git
 # Navigate to project directory
 cd PixelPop
 
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
 
 ## 📋 Supported Formats & Resolutions
 
